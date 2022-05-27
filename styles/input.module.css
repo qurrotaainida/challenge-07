@@ -1,0 +1,38 @@
+.headingText{
+    
+    
+}
+.containerForm{
+    margin-left: 10vh;
+    margin-top: 8vh;
+    margin-bottom: 20px;
+}
+
+.dropfile{
+    
+    margin-top: 13vh;
+    margin-left: 10vh;
+    border-style: double;
+    border-width: 2px;
+    border-color: lightgray;
+    
+    
+}
+
+.dropfile p {
+    font-weight: 500;
+    margin-top: 25%;
+    margin-left: 10%;
+    color: lightslategray;
+}
+
+.dropZone{
+    margin-top: 20vh;
+}
+
+.tag{
+    list-style: circle;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20%;
+    margin-top: 10%;
+}
